@@ -8,7 +8,8 @@ The script is grabbing each row and is grouping products by count in a new file 
 git pull https://github.com/andreigirnet/supplierParserInterview.git
 
 ## Usage
-Run this in your terminal, you gave to be in the root folder.
+Run this in your terminal.
+You have to be in the root folder.
 
 php parser.php --file products.csv --unique-combinations=combination_count.csv --format=csv
 

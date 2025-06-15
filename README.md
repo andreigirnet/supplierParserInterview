@@ -5,7 +5,7 @@ The script is grabbing each row and is grouping products by count in a new file 
 
 ## Installation
 
-git pull
+git pull https://github.com/andreigirnet/supplierParserInterview.git
 
 ## Usage
 Run this in your terminal, you gave to be in the root folder.

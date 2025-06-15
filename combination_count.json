@@ -1,0 +1,32 @@
+[
+    {
+        "brand_name": "AASTRA",
+        "model_name": "6865I",
+        "colour_name": "Black",
+        "gb_spec_name": "Not Applicable",
+        "network_name": "Not Applicable",
+        "grade_name": "Grade B - Good Condition",
+        "condition_name": "Working",
+        "count": 3
+    },
+    {
+        "brand_name": "AASTRA",
+        "model_name": "6865I",
+        "colour_name": "Black",
+        "gb_spec_name": "Not Applicable",
+        "network_name": "Not Applicable",
+        "grade_name": "Grade A - Very Good Condition",
+        "condition_name": "Working",
+        "count": 1
+    },
+    {
+        "brand_name": "ABOOK",
+        "model_name": "1720W",
+        "colour_name": "Black",
+        "gb_spec_name": "4GB",
+        "network_name": "Not Applicable",
+        "grade_name": "Grade B - Good Condition",
+        "condition_name": "Working",
+        "count": 1
+    }
+]
